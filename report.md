@@ -22,12 +22,40 @@
 
 ## Related Work
 
+> 分三段，大概写500字
+>
+> 第一段：联邦学习
+>
+> 第二段：分布式强化学习
+>
+> 第三段：多智能体强化学习
+
 ## Problem Definition
+
+> 强化学习的优化目标
+>
+> 策略梯度的一些基本概念
 
 ## Our FPPO Approach
 
+> PPO 的公式
+>
+> 联邦学习的公式
+>
+> FPPO的算法
+
 ## Experiments
+
+> 三个实验：
+>
+> 1. gym做一个算法验证收敛性的实验
+> 2. procgen，相同任务不同背景
+> 3. procgen，不同任务
 
 ## Conclusion
 
+> 一段大概200字
+
 ## References
+
+> 参考文献
