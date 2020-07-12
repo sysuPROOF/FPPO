@@ -49,8 +49,6 @@
 > 三个实验：
 >
 > 1. gym做一个算法验证收敛性的实验
-> 2. procgen，相同任务不同背景
-> 3. procgen，不同任务
 
 ## Conclusion
 
