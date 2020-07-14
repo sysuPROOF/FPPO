@@ -39,12 +39,18 @@
 ## Related Work
 
 > 分三段，大概写500字
+> 
+> 你写前两段就好了
 >
-> 第一段：联邦学习 *5篇左右*
+> 第一段：联邦学习 
 >
-> 第二段：分布式强化学习
+> https://zhuanlan.zhihu.com/p/93715164
 >
-> 第三段：多智能体强化学习
+> https://cn.fedai.org/
+>
+> 第二段：强化学习： 分别介绍 DQN，AlphaGo，AlphaStar，知乎上一大堆，你看看
+>
+> 第三段：联邦强化学习
 
 ## Problem Definition
 
