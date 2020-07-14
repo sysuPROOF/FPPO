@@ -16,7 +16,7 @@
 >
 > 强化学习（RL）是机器学习中的一个领域，强调如何基于环境而行动，以取得最大化的预期利益。RL的主要特征是智能体（Agent）和环境（Environment）。 在机器学习问题中，环境通常被规范为马尔可夫决策过程（MDP），简单说就是一个智能体采取行动（Action）从而改变自己的状态（State）获得奖励（Reward）与环境发生交互的循环过程，如图1。 智能体的目标是最大限度地提高其累积报酬，称为回报（Return）。强化学习方法是智能体能通过学习行为以实现其目标的方式。
 >
-><img src="https://github.com/sysuPROOF/FPPO/tree/master/images/rl_diagram_transparent_bg.png" width="50%">
+>![图1](https://spinningup.openai.com/en/latest/_images/rl_diagram_transparent_bg.png)
 >
 >强化学习实际上是一类算法的统称，其中最重要的分支点之一是Agent是否可以访问（或学习）环境模型的问题，通过环境模型可以定义预测状态转换和奖励的函数。根据这点RL算法可以分为Model-Free以及Model-Based两种类型。尽管Model-Free方法没有使用模型可能带来的提高样本效率的潜力，但它们往往更易于实现和调整，所以比Model-Based方法更受欢迎。Model-Free RL中比较有代表性的是策略最优（Policy Optimization）以及Q-learning的方法。我们实验中主要使用的是策略最优方法中基于策略梯度（Policy Gradient）的强化学习算法。
 >
