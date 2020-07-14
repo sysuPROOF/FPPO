@@ -38,17 +38,9 @@
 
 ## Related Work
 
-> 分三段，大概写500字
-> 
-> 你写前两段就好了
+> 联邦学习的主要思想是基于分布在多个设备上的数据集构建机器学习模型，同时防止数据泄漏。最近的改进集中在克服统计挑战和提高联邦学习的安全性上。也有研究工作使联邦学习更加个性化。以上工作全部集中在设备上的联邦学习上，其中涉及分布式移动用户交互，并且大规模分配中的通信成本，不平衡的数据分配和设备可靠性是优化的一些主要因素。根据数据的分布特征可以对联邦学习进行分类，即横向联邦学习，纵向联邦学习，和联邦迁移学习。联邦学习可以被认为是保护隐私的分布式协作机器学习，因此它与多方隐私保护机器学习紧密相关。过去，许多研究工作已致力于该领域。例如，参考文献[2]提出了用于纵向分区数据的安全多方决策树的算法。 Vaidya和Clifton提出了用于纵向分区数据的安全关联挖掘规则[3]，安全k均值和朴素贝叶斯分类器等。
 >
-> 第一段：联邦学习 
->
-> https://zhuanlan.zhihu.com/p/93715164
->
-> https://cn.fedai.org/
->
-> 第二段：强化学习： 分别介绍 DQN，AlphaGo，AlphaStar，知乎上一大堆，你看看
+> 深度强化学习是深度学习与强化学习相结合的产物，它集成了深度学习在视觉等感知问题上强大的理解能力，以及强化学习的决策能力，实现了端到端学习。深度强化学习的出现使得强化学习技术真正走向实用，得以解决现实场景中的复杂问题。从2013年DQN（深度Q网络，deep Q network）出现到目前为止，深度强化学习领域出现了大量的算法，以及解决实际应用问题的论文，也出现越来越多的实际应用。如2016年轰动一时的由Google Deepmind开发的人工智能围棋软件*AlphaGo*，以及2019年1月DeepMind推出的打星际争霸2的AI系统*AlphaStar*等。
 >
 > 第三段：联邦强化学习: 这个我来写
 
@@ -82,4 +74,6 @@
 
 > 参考文献
 
-Leveraging Procedural Generation to BenchmarkReinforcement Learning
+1. Leveraging Procedural Generation to BenchmarkReinforcement Learning
+2. A Lossless Federated Learning Framework
+3. Tools for privacy preserving distributed data mining
